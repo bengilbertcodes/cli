@@ -48,6 +48,7 @@ main {
     background-color: lightblue;
     /* Make main element take up most of the page */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 #menu {
