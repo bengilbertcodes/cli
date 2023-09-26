@@ -211,6 +211,7 @@ main {
     flex-direction: column;
 }
 
+/* Form */
 #signup {
     background: url(../images/signup-image.webp) no-repeat 75% / cover;
     padding: 20px 10% 0 10%;
